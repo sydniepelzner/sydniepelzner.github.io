@@ -1,0 +1,261 @@
+Searching for integrator.xml ...
+
+init:
+
+dita2html5-bootstrap.init:
+
+html5.init:
+
+init-properties:
+[init-project] Initializing project
+
+check-arg:
+   [delete] Deleting directory /home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791
+    [mkdir] Created dir: /home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791
+
+log-arg:
+     [echo] *****************************************************************
+     [echo] * basedir = /home/dita-ot/dita-ot/dita-ot12713963092229907157/dita-ot/dita-ot-3.6.1
+     [echo] * dita.dir = /home/dita-ot/dita-ot/dita-ot12713963092229907157/dita-ot/dita-ot-3.6.1
+     [echo] * transtype = html5-bootstrap
+     [echo] * tempdir = /home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791
+     [echo] * outputdir = /home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-output/html5-bootstrap
+     [echo] * clean.temp = true
+     [echo] * DITA-OT version = 3.6.1
+     [echo] * XML parser = Xerces
+     [echo] * XSLT processor = Saxon
+     [echo] * collator = ICU
+     [echo] *****************************************************************
+     [echo] #Ant properties
+     [echo] #Fri Jun 07 07:04:56 GMT 2024
+     [echo] dita.plugin.org.dita.base.dir=/home/dita-ot/dita-ot/dita-ot12713963092229907157/dita-ot/dita-ot-3.6.1/plugins/org.dita.base
+     [echo] dita.temp.dir=/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791
+     [echo] args.xsl=/home/dita-ot/dita-ot/dita-ot12713963092229907157/dita-ot/dita-ot-3.6.1/plugins/net.infotexture.dita-bootstrap/xsl/html5-bootstrap.xsl
+     [echo] args.html5.toc=toc
+     [echo] args.grammar.cache=yes
+     [echo] dita.plugin.org.oasis-open.xdita.v0_2_2.dir=/home/dita-ot/dita-ot/dita-ot12713963092229907157/dita-ot/dita-ot-3.6.1/plugins/org.oasis-open.xdita.v0_2_2
+     [echo] dita.dir=/home/dita-ot/dita-ot/dita-ot12713963092229907157/dita-ot/dita-ot-3.6.1
+     [echo] dita.plugin.org.dita.pdf2.axf.dir=/home/dita-ot/dita-ot/dita-ot12713963092229907157/dita-ot/dita-ot-3.6.1/plugins/org.dita.pdf2.axf
+     [echo] args.hdf=/home/dita-ot/dita-ot/dita-ot12713963092229907157/dita-ot/dita-ot-3.6.1/plugins/net.infotexture.dita-bootstrap/includes/bootstrap.hdf.xml
+     [echo] args.copycss=yes
+     [echo] args.csspath=css
+     [echo] dita.plugin.org.oasis-open.dita.v1_3.dir=/home/dita-ot/dita-ot/dita-ot12713963092229907157/dita-ot/dita-ot-3.6.1/plugins/org.oasis-open.dita.v1_3
+     [echo] dita.plugin.org.lwdita.dir=/home/dita-ot/dita-ot/dita-ot12713963092229907157/dita-ot/dita-ot-3.6.1/plugins/org.lwdita
+     [echo] dita.plugin.org.oasis-open.dita.v2_0.dir=/home/dita-ot/dita-ot/dita-ot12713963092229907157/dita-ot/dita-ot-3.6.1/plugins/org.oasis-open.dita.v2_0
+     [echo] args.hdr=/home/dita-ot/dita-ot/dita-ot12713963092229907157/dita-ot/dita-ot-3.6.1/plugins/net.infotexture.dita-bootstrap/includes/bs-navbar-default.hdr.xml
+     [echo] dita.plugin.org.dita.htmlhelp.dir=/home/dita-ot/dita-ot/dita-ot12713963092229907157/dita-ot/dita-ot-3.6.1/plugins/org.dita.htmlhelp
+     [echo] dita.output.dir=/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-output/html5-bootstrap
+     [echo] dita.plugin.org.dita.eclipsehelp.dir=/home/dita-ot/dita-ot/dita-ot12713963092229907157/dita-ot/dita-ot-3.6.1/plugins/org.dita.eclipsehelp
+     [echo] dita.plugin.org.dita.normalize.dir=/home/dita-ot/dita-ot/dita-ot12713963092229907157/dita-ot/dita-ot-3.6.1/plugins/org.dita.normalize
+     [echo] dita.plugin.org.dita.xhtml.dir=/home/dita-ot/dita-ot/dita-ot12713963092229907157/dita-ot/dita-ot-3.6.1/plugins/org.dita.xhtml
+     [echo] dita.plugin.org.dita.pdf2.xep.dir=/home/dita-ot/dita-ot/dita-ot12713963092229907157/dita-ot/dita-ot-3.6.1/plugins/org.dita.pdf2.xep
+     [echo] dita.plugin.org.dita.specialization.dita11.dir=/home/dita-ot/dita-ot/dita-ot12713963092229907157/dita-ot/dita-ot-3.6.1/plugins/org.dita.specialization.dita11
+     [echo] dita.plugin.org.oasis-open.dita.v1_2.dir=/home/dita-ot/dita-ot/dita-ot12713963092229907157/dita-ot/dita-ot-3.6.1/plugins/org.oasis-open.dita.v1_2
+     [echo] dita.plugin.org.dita.pdf2.fop.dir=/home/dita-ot/dita-ot/dita-ot12713963092229907157/dita-ot/dita-ot-3.6.1/plugins/org.dita.pdf2.fop
+     [echo] args.input=/home/dita-ot/dita-ot/dita-ot12713963092229907157/source/0/Multi-Function_Printer_Instructions.ditamap
+     [echo] args.xml.systemid.set=yes
+     [echo] dita.plugin.org.dita.pdf2.dir=/home/dita-ot/dita-ot/dita-ot12713963092229907157/dita-ot/dita-ot-3.6.1/plugins/org.dita.pdf2
+     [echo] dita.plugin.org.dita.html5.dir=/home/dita-ot/dita-ot/dita-ot12713963092229907157/dita-ot/dita-ot-3.6.1/plugins/org.dita.html5
+     [echo] dita.html5.reloadstylesheet=false
+     [echo] dita.plugin.org.oasis-open.dita.techcomm.v2_0.dir=/home/dita-ot/dita-ot/dita-ot12713963092229907157/dita-ot/dita-ot-3.6.1/plugins/org.oasis-open.dita.techcomm.v2_0
+     [echo] dita.plugin.org.dita.index.dir=/home/dita-ot/dita-ot/dita-ot12713963092229907157/dita-ot/dita-ot-3.6.1/plugins/org.dita.index
+     [echo] dita.plugin.net.infotexture.dita-bootstrap.dir=/home/dita-ot/dita-ot/dita-ot12713963092229907157/dita-ot/dita-ot-3.6.1/plugins/net.infotexture.dita-bootstrap
+     [echo] dita.plugin.fox.jason.extend.css.dir=/home/dita-ot/dita-ot/dita-ot12713963092229907157/dita-ot/dita-ot-3.6.1/plugins/fox.jason.extend.css
+     [echo] dita.extname=dita
+     [echo] *****************************************************************
+
+build-init:
+
+preprocess.init:
+     [echo] *****************************************************************
+     [echo] * input = /home/dita-ot/dita-ot/dita-ot12713963092229907157/source/0/Multi-Function_Printer_Instructions.ditamap
+     [echo] * resources = ${args.resources}
+     [echo] *****************************************************************
+
+ditaval-merge:
+
+gen-list:
+ [gen-list] Using Xerces grammar pool for DTD and schema caching.
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/source/0/Multi-Function_Printer_Instructions.ditamap
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/source/0/Copying/Copying_Documents.dita
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/source/0/Getting_Extra_Assistance.dita
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/source/0/Payment_Options.dita
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/source/0/Printing/Printing_From_a_Library_Computer.dita
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/source/0/Printing/Printing_Wirelessly.dita
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/source/0/Printing/Retrieving_Printed_Jobs.dita
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/source/0/Scanning/Scanning_Documents.dita
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/source/0/Using_This_Printer.dita
+ [gen-list] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/source/0/Using_the_Equitrac_Console.dita
+ [gen-list] Serializing job specification
+
+debug-filter:
+   [filter] Using Xerces grammar pool for DTD and schema caching.
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/source/0/Payment_Options.dita to file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Payment_Options.dita
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/source/0/Multi-Function_Printer_Instructions.ditamap to file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Multi-Function_Printer_Instructions.ditamap
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/source/0/Copying/Copying_Documents.dita to file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Copying/Copying_Documents.dita
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/source/0/Using_This_Printer.dita to file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Using_This_Printer.dita
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/source/0/Printing/Retrieving_Printed_Jobs.dita to file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Printing/Retrieving_Printed_Jobs.dita
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/source/0/Printing/Printing_From_a_Library_Computer.dita to file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Printing/Printing_From_a_Library_Computer.dita
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/source/0/Printing/Printing_Wirelessly.dita to file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Printing/Printing_Wirelessly.dita
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/source/0/Using_the_Equitrac_Console.dita to file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Using_the_Equitrac_Console.dita
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/source/0/Getting_Extra_Assistance.dita to file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Getting_Extra_Assistance.dita
+   [filter] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/source/0/Scanning/Scanning_Documents.dita to file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Scanning/Scanning_Documents.dita
+
+mapref-check:
+
+mapref:
+   [mapref] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Multi-Function_Printer_Instructions.ditamap
+
+branch-filter:
+[branch-filter] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Multi-Function_Printer_Instructions.ditamap
+
+keyref:
+   [mapref] Transforming into /home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791
+   [mapref] Loading stylesheet /home/dita-ot/dita-ot/dita-ot12713963092229907157/dita-ot/dita-ot-3.6.1/plugins/org.dita.base/xsl/preprocess/mapref.xsl
+   [mapref] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Multi-Function_Printer_Instructions.ditamap
+
+copy-to:
+
+conrefpush:
+
+conref:
+
+profile-check:
+
+profile:
+
+topic-fragment:
+[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Payment_Options.dita
+[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Copying/Copying_Documents.dita
+[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Using_This_Printer.dita
+[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Printing/Retrieving_Printed_Jobs.dita
+[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Printing/Printing_From_a_Library_Computer.dita
+[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Printing/Printing_Wirelessly.dita
+[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Using_the_Equitrac_Console.dita
+[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Getting_Extra_Assistance.dita
+[topic-fragment] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Scanning/Scanning_Documents.dita
+
+chunk-check:
+
+chunk:
+    [chunk] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Multi-Function_Printer_Instructions.ditamap
+
+move-meta-entries:
+[move-meta] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Multi-Function_Printer_Instructions.ditamap
+[move-meta] Loading stylesheet /home/dita-ot/dita-ot/dita-ot12713963092229907157/dita-ot/dita-ot-3.6.1/plugins/org.dita.base/xsl/preprocess/mappull.xsl
+[move-meta] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Multi-Function_Printer_Instructions.ditamap
+
+maplink-check:
+
+maplink:
+  [maplink] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Printing/Retrieving_Printed_Jobs.dita
+  [maplink] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Printing/Printing_Wirelessly.dita
+  [maplink] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Printing/Printing_From_a_Library_Computer.dita
+  [maplink] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Using_the_Equitrac_Console.dita
+  [maplink] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Using_This_Printer.dita
+
+topicpull-check:
+
+topicpull:
+[topicpull] Transforming into /home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791
+[topicpull] Loading stylesheet /home/dita-ot/dita-ot/dita-ot12713963092229907157/dita-ot/dita-ot-3.6.1/plugins/org.dita.base/xsl/preprocess/topicpull.xsl
+[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Payment_Options.dita
+[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Copying/Copying_Documents.dita
+[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Using_This_Printer.dita
+[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Printing/Retrieving_Printed_Jobs.dita
+[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Printing/Printing_From_a_Library_Computer.dita
+[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Printing/Printing_Wirelessly.dita
+[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Using_the_Equitrac_Console.dita
+[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Getting_Extra_Assistance.dita
+[topicpull] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Scanning/Scanning_Documents.dita
+
+clean-map-check:
+
+clean-map:
+[clean-map] Transforming into /home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791
+[clean-map] Loading stylesheet /home/dita-ot/dita-ot/dita-ot12713963092229907157/dita-ot/dita-ot-3.6.1/plugins/org.dita.base/xsl/preprocess/clean-map.xsl
+[clean-map] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Multi-Function_Printer_Instructions.ditamap
+
+clean-preprocess:
+
+copy-image:
+     [copy] Copying 10 files to /home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-output/html5-bootstrap
+
+copy-html:
+
+copy-flag-check:
+
+copy-flag:
+
+copy-files:
+
+extend.css.init:
+
+dita-bootstrap.css.copy:
+
+extend.css.copy:
+     [copy] Copying 1 file to /home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-output/html5-bootstrap/css
+
+extend.css:
+
+preprocess:
+
+html5.topic.init:
+
+html5.image-metadata:
+[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Payment_Options.dita
+[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-output/html5-bootstrap/Screenshot_2024-05-18_at_7.26.49PM.jpeg
+[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Copying/Copying_Documents.dita
+[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-output/html5-bootstrap/Printing/Align_Along_This_Arrow_1.jpeg
+[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-output/html5-bootstrap/Copying/Main_Menu.png
+[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-output/html5-bootstrap/Copying/Copy_Pop-Up_Screen.png
+[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Using_This_Printer.dita
+[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Printing/Retrieving_Printed_Jobs.dita
+[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-output/html5-bootstrap/Printing/IMG_1700.jpeg
+[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Printing/Printing_From_a_Library_Computer.dita
+[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-output/html5-bootstrap/Printing/Screenshot_2024-05-16_at_10.27.47AM.png
+[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Printing/Printing_Wirelessly.dita
+[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Using_the_Equitrac_Console.dita
+[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-output/html5-bootstrap/Equitrac_Console.png
+[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Getting_Extra_Assistance.dita
+[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-output/html5-bootstrap/Screenshot_2024-05-18_at_7.26.49PM.png
+[image-metadata] Processing /home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Scanning/Scanning_Documents.dita
+[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-output/html5-bootstrap/Main_Menu.png
+[image-metadata] Reading file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-output/html5-bootstrap/a6ee96d8-b427-4c62-b9b5-fc3b4b7c92ea.jpg
+
+html5.topics.common:
+
+html5.topics.common.inner:
+     [xslt] Transforming into /home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-output/html5-bootstrap
+     [xslt] Loading stylesheet /home/dita-ot/dita-ot/dita-ot12713963092229907157/dita-ot/dita-ot-3.6.1/plugins/net.infotexture.dita-bootstrap/xsl/html5-bootstrap.xsl
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Payment_Options.dita to file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-output/html5-bootstrap/Payment_Options.html
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Copying/Copying_Documents.dita to file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-output/html5-bootstrap/Copying/Copying_Documents.html
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Using_This_Printer.dita to file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-output/html5-bootstrap/Using_This_Printer.html
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Printing/Retrieving_Printed_Jobs.dita to file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-output/html5-bootstrap/Printing/Retrieving_Printed_Jobs.html
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Printing/Printing_From_a_Library_Computer.dita to file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-output/html5-bootstrap/Printing/Printing_From_a_Library_Computer.html
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Printing/Printing_Wirelessly.dita to file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-output/html5-bootstrap/Printing/Printing_Wirelessly.html
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Using_the_Equitrac_Console.dita to file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-output/html5-bootstrap/Using_the_Equitrac_Console.html
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Getting_Extra_Assistance.dita to file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-output/html5-bootstrap/Getting_Extra_Assistance.html
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Scanning/Scanning_Documents.dita to file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-output/html5-bootstrap/Scanning/Scanning_Documents.html
+
+html5.topic:
+
+html5.map.init:
+
+html5.map.toc:
+     [xslt] Transforming into /home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-output/html5-bootstrap
+     [xslt] Loading stylesheet /home/dita-ot/dita-ot/dita-ot12713963092229907157/dita-ot/dita-ot-3.6.1/plugins/org.dita.html5/xsl/map2html5-cover.xsl
+     [xslt] Processing file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-temp4417758994078712791/Multi-Function_Printer_Instructions.ditamap to file:/home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-output/html5-bootstrap/toc.html
+
+html5.map:
+
+html5.css:
+     [copy] Copying 2 files to /home/dita-ot/dita-ot/dita-ot12713963092229907157/ot-output/html5-bootstrap/css
+
+html5.copy-css-user:
+
+dita2html5:
+
+dita2html5-bootstrap:
+
+clean-temp:
